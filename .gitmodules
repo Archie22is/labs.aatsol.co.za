@@ -1,0 +1,3 @@
+[submodule "public/nightly"]
+	path = public/nightly
+	url = git://github.com/WordPress/WordPress.git
