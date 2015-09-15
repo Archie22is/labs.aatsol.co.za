@@ -12,7 +12,7 @@
 ##################################
   WordPress Files
 ##################################
-public/nightly/*.log
+#public/nightly/*.log
 public/nightly/.htaccess
 public/nightly/sitemap.xml
 public/nightly/sitemap.xml.gz
